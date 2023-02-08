@@ -1,13 +1,10 @@
-<h1>Hi, I'm Oana! <br/><a 
+<h2>Hello, I'm Oana! <br/><br/><a 
 
 <h2>💻 Data Science Projects:</h2>
 
 - <b>Python</b>
-  - [Airbnb Barcelona pricing data analysis and visualisation](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Airbnb Barcelona pricing data analysis and visualisation](https://github.com/opxme/Airbnb-Data-Science)
 
-<h2>📺 YouTube Videos</h2>
-
-- [Userinterface](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
 <h2> 🤳 Connect with me:</h2>
 
